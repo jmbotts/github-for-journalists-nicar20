@@ -74,7 +74,7 @@ The desktop app is the most user-friendly way to connect your local computer to 
 * `branch`: Use a branch to isolate development work without affecting other branches, basically means you are creating a new version of the repository. 
 * `fork`: A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.
 * `pull request:` Pull requests let you tell others about changes you've pushed to a repository and the receivers can then decide whether to merge your changes. 
-* `merge conflict`: Conflicts happen when the same lines in a file eidted by two people, or if one developer deleted a file while another developer was modifying it. In these cases, Git cannot automatically determine what is correct. 
+* `merge conflict`: Conflicts happen when the same lines in a file edited by two people, or if one developer deleted a file while another developer was modifying it. In these cases, Git cannot automatically determine what is correct. 
 
 ## Create a personal Github page?
 
